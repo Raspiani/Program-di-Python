@@ -7,3 +7,4 @@ Program-program tersebut sebagai berikut:
 3. Program Menghitung Penjumlahan Matriks 3x3
 4. Program Menghitung Pengurangan Matriks 3x3
 5. Program Menentukan Bilangan Prima
+6. Program Menentukan Semua Bilangan Prima Pada Rentang Tertentu
