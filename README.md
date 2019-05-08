@@ -8,3 +8,4 @@ Program-program tersebut sebagai berikut:
 4. Program Menghitung Pengurangan Matriks 3x3
 5. Program Menentukan Bilangan Prima
 6. Program Menentukan Semua Bilangan Prima Pada Rentang Tertentu
+7. Program Menentukan Angka Tertinggi dari 3 Angka yang diberikan
