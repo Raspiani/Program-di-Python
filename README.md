@@ -13,3 +13,4 @@ Program-program tersebut sebagai berikut:
 9. Program Mencetak Barisan Fibonacci
 10. Program Menghitung Factorial
 11. Program Input Nilai
+12. Program Memeriksa Kriteria Angka
